@@ -1,0 +1,128 @@
+{
+  "lesson_id": "lesson-2",
+  "level": "N3",
+  "title": "〜と関係して",
+  "subtitle": "Relación y correspondencia entre acciones",
+  "points": [
+    {
+      "id": "n3-g-005",
+      "lesson_id": "lesson-2",
+      "pattern": "〜とおりだ・〜とおり（に）・〜どおりだ・〜どおり（に）",
+      "reading": "とおりだ・とおりに・どおりだ・どおりに",
+      "meaning_es": "tal como / exactamente igual que",
+      "explanation": "Indica que algo se realiza siguiendo fielmente un modelo, instrucción o expectativa previa, sin desviarse de ella.",
+      "usage_notes": "とおり se usa tras verbo en diccionario o た, o tras この/その/どの. どおり se usa directamente tras un sustantivo (予定どおり, 説明どおり). Ambas formas son intercambiables en significado, cambia solo la conexión gramatical.",
+      "examples": [
+        {
+          "jp": "先生が言ったとおりに練習した。",
+          "furigana": "せんせいがいったとおりにれんしゅうした。",
+          "es": "Practiqué exactamente como dijo el profesor."
+        },
+        {
+          "jp": "計画どおりに進んでいる。",
+          "furigana": "けいかくどおりにすすんでいる。",
+          "es": "Va avanzando tal como estaba planeado."
+        }
+      ],
+      "related_points": [],
+      "tags": ["correspondencia", "modelo"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-006",
+      "lesson_id": "lesson-2",
+      "pattern": "〜によって・〜によっては",
+      "reading": "によって・によっては",
+      "meaning_es": "dependiendo de / según",
+      "explanation": "Señala que un resultado varía en función de un factor determinado, es decir, que existe correspondencia entre la variable y el resultado.",
+      "usage_notes": "No confundir con el uso de 〜によって como 'por medio de' o como marcador de agente en pasiva. Aquí el sentido es 'según el caso de X, Y cambia'. 〜によっては añade matiz de 'dependiendo del caso, incluso puede ocurrir que...'.",
+      "examples": [
+        {
+          "jp": "国によって、习慣が違う。",
+          "furigana": "くにによって、しゅうかんがちがう。",
+          "es": "Las costumbres varían según el país."
+        },
+        {
+          "jp": "日によっては、全然お客さんが来ないこともある。",
+          "furigana": "ひによっては、ぜんぜんおきゃくさんがこないこともある。",
+          "es": "Dependiendo del día, incluso puede que no venga ningún cliente."
+        }
+      ],
+      "related_points": ["n3-g-020"],
+      "tags": ["correspondencia", "variación"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-007",
+      "lesson_id": "lesson-2",
+      "pattern": "〜たびに",
+      "reading": "たびに",
+      "meaning_es": "cada vez que",
+      "explanation": "Expresa que, cada vez que ocurre una acción o evento, se produce otra de forma constante o repetida.",
+      "usage_notes": "Se usa con verbo en diccionario o sustantivo + の. Implica regularidad: no es un caso aislado, sino un patrón que se repite sistemáticamente.",
+      "examples": [
+        {
+          "jp": "彼女に会うたびに、元気をもらう。",
+          "furigana": "かのじょにあうたびに、げんきをもらう。",
+          "es": "Cada vez que la veo, me da energía."
+        },
+        {
+          "jp": "旅行のたびに、写真をたくさん撮る。",
+          "furigana": "りょこうのたびに、しゃしんをたくさんとる。",
+          "es": "Cada vez que viajo, hago muchas fotos."
+        }
+      ],
+      "related_points": [],
+      "tags": ["repetición", "correspondencia"],
+      "difficulty": 1
+    },
+    {
+      "id": "n3-g-008",
+      "lesson_id": "lesson-2",
+      "pattern": "（〜ば）〜ほど・（〜なら）〜ほど・〜ほど",
+      "reading": "ばほど・ならほど・ほど",
+      "meaning_es": "cuanto más... más...",
+      "explanation": "Expresa una relación proporcional: a medida que aumenta un factor, aumenta (o disminuye) otro en consecuencia.",
+      "usage_notes": "Estructura típica: verbo condicional（ば）+ misma forma en diccionario + ほど. También válido con なら. Es habitual repetir el mismo verbo o adjetivo en ambas partes.",
+      "examples": [
+        {
+          "jp": "このワインは、時間がたてばたつほど美味しくなる。",
+          "furigana": "このワインは、じかんがたてばたつほどおいしくなる。",
+          "es": "Este vino, cuanto más tiempo pasa, más rico se pone."
+        },
+        {
+          "jp": "勉強すればするほど、分からないことが増える気がする。",
+          "furigana": "べんきょうすればするほど、わからないことがふえるきがする。",
+          "es": "Siento que cuanto más estudio, más cosas no entiendo."
+        }
+      ],
+      "related_points": [],
+      "tags": ["proporción", "correspondencia"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-009",
+      "lesson_id": "lesson-2",
+      "pattern": "〜ついでに",
+      "reading": "ついでに",
+      "meaning_es": "aprovechando para (de paso)",
+      "explanation": "Indica que, al realizar una acción principal, se aprovecha la ocasión para hacer otra cosa adicional de forma conveniente.",
+      "usage_notes": "Se usa con verbo en diccionario/た + ついでに, o sustantivo + の + ついでに. La segunda acción es secundaria respecto a la primera, no al revés.",
+      "examples": [
+        {
+          "jp": "郵便局に行くついでに、コンビニで買い物もした。",
+          "furigana": "ゆうびんきょくにいくついでに、コンビニでかいものもした。",
+          "es": "Aprovechando que iba a correos, también compré algo en la tienda."
+        },
+        {
+          "jp": "散歩のついでに、公園のごみを拾った。",
+          "furigana": "さんぽのついでに、こうえんのごみをひろった。",
+          "es": "Aprovechando el paseo, recogí basura del parque."
+        }
+      ],
+      "related_points": [],
+      "tags": ["oportunidad", "acción secundaria"],
+      "difficulty": 1
+    }
+  ]
+}

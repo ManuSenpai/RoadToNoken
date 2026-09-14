@@ -1,0 +1,128 @@
+{
+  "lesson_id": "lesson-8",
+  "level": "N3",
+  "title": "絶対〜ない・必ず〜とは言えない",
+  "subtitle": "Negación parcial y matizada",
+  "points": [
+    {
+      "id": "n3-g-034",
+      "lesson_id": "lesson-8",
+      "pattern": "〜はずがない・〜わけがない",
+      "reading": "はずがない・わけがない",
+      "meaning_es": "es imposible que / no puede ser que",
+      "explanation": "Expresa una negación fuerte basada en la lógica o el sentido común del hablante: la posibilidad se considera prácticamente nula.",
+      "usage_notes": "はずがない parte de una expectativa lógica previa; わけがない es algo más enfático/coloquial, casi de incredulidad. Ambas van tras forma simple del predicado.",
+      "examples": [
+        {
+          "jp": "彼がそんなことを言うはずがない。",
+          "furigana": "かれがそんなことをいうはずがない。",
+          "es": "Es imposible que él diga algo así."
+        },
+        {
+          "jp": "こんな値段で買えるわけがない。",
+          "furigana": "こんなねだんでかえるわけがない。",
+          "es": "No hay manera de que se pueda comprar a este precio."
+        }
+      ],
+      "related_points": [],
+      "tags": ["negación", "certeza"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-035",
+      "lesson_id": "lesson-8",
+      "pattern": "〜とは限らない",
+      "reading": "とはかぎらない",
+      "meaning_es": "no siempre es cierto que / no necesariamente",
+      "explanation": "Matiza una afirmación general indicando que, aunque suele ser así, existen excepciones: niega la universalidad absoluta de una regla.",
+      "usage_notes": "Muy usado tras 必ずしも para reforzar el matiz ('no necesariamente siempre'). No es una negación total, sino una negación de la generalización.",
+      "examples": [
+        {
+          "jp": "高いものが必ずしもいいとは限らない。",
+          "furigana": "たかいものがかならずしもいいとはかぎらない。",
+          "es": "Lo caro no siempre es necesariamente bueno."
+        },
+        {
+          "jp": "雨が降ったら中止とは限らない。",
+          "furigana": "あめがふったらちゅうしとはかぎらない。",
+          "es": "Que llueva no significa necesariamente que se cancele."
+        }
+      ],
+      "related_points": [],
+      "tags": ["negación", "excepción"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-036",
+      "lesson_id": "lesson-8",
+      "pattern": "〜わけではない・〜というわけではない・〜のではない",
+      "reading": "わけではない・というわけではない・のではない",
+      "meaning_es": "no es que (exactamente) / no significa que",
+      "explanation": "Matiza o corrige una posible interpretación errónea, aclarando que la conclusión que se podría deducir no es del todo exacta.",
+      "usage_notes": "Muy usado para suavizar una negación tras haber dicho algo que podría malinterpretarse: '[afirmación previa], pero eso no significa que...'.",
+      "examples": [
+        {
+          "jp": "嫌いなわけではないが、あまり食べたくない。",
+          "furigana": "きらいなわけではないが、あまりたべたくない。",
+          "es": "No es que me disguste, pero no me apetece mucho comerlo."
+        },
+        {
+          "jp": "全員が反対しているというわけではない。",
+          "furigana": "ぜんいんがはんたいしているというわけではない。",
+          "es": "No es que todos estén en contra."
+        }
+      ],
+      "related_points": ["n3-g-035"],
+      "tags": ["negación", "matización"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-037",
+      "lesson_id": "lesson-8",
+      "pattern": "〜ないことはない",
+      "reading": "ないことはない",
+      "meaning_es": "no es que no... (doble negación = cierta posibilidad)",
+      "explanation": "Doble negación que suaviza una afirmación positiva: admite una posibilidad, aunque sea con reservas o condiciones.",
+      "usage_notes": "Tono de reticencia o condición implícita: 'se puede, pero con matices/no es lo ideal'. Muy natural en japonés para no sonar tajante.",
+      "examples": [
+        {
+          "jp": "忙しいけど、手伝えないことはない。",
+          "furigana": "いそがしいけど、てつだえないことはない。",
+          "es": "Estoy ocupado, pero no es que no pueda ayudar."
+        },
+        {
+          "jp": "高いが、買えないことはない値段だ。",
+          "furigana": "たかいが、かえないことはないねだんだ。",
+          "es": "Es caro, pero es un precio que no es imposible de pagar."
+        }
+      ],
+      "related_points": [],
+      "tags": ["negación", "doble negación"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-038",
+      "lesson_id": "lesson-8",
+      "pattern": "〜ことは〜が、…",
+      "reading": "ことはが",
+      "meaning_es": "sí que... pero (concesión parcial)",
+      "explanation": "Repite el mismo verbo/adjetivo antes y después de ことは, para admitir parcialmente algo antes de introducir una objeción o matiz con が.",
+      "usage_notes": "Estructura: [verbo/adj] ことは [mismo verbo/adj] が、[pero...]. Sirve para reconocer un hecho sin comprometerse del todo con sus implicaciones.",
+      "examples": [
+        {
+          "jp": "行くことは行くが、あまり気が進まない。",
+          "furigana": "いくことはいくが、あまりきがすすまない。",
+          "es": "Sí que voy a ir, pero no tengo muchas ganas."
+        },
+        {
+          "jp": "美味しいことは美味しいが、値段が高すぎる。",
+          "furigana": "おいしいことはおいしいが、ねだんがたかすぎる。",
+          "es": "Rico sí que está, pero el precio es demasiado alto."
+        }
+      ],
+      "related_points": [],
+      "tags": ["negación", "concesión parcial"],
+      "difficulty": 3
+    }
+  ]
+}

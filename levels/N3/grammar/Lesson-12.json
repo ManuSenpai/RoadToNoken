@@ -1,0 +1,104 @@
+{
+  "lesson_id": "lesson-12",
+  "level": "N3",
+  "title": "敬語",
+  "subtitle": "Lenguaje honorífico (keigo)",
+  "points": [
+    {
+      "id": "n3-g-050",
+      "lesson_id": "lesson-12",
+      "pattern": "尊敬語",
+      "reading": "そんけいご",
+      "meaning_es": "lenguaje de respeto (eleva al interlocutor/tercero)",
+      "explanation": "Se usa para elevar respetuosamente las acciones o estado de la persona a la que se habla o de la que se habla, nunca sobre uno mismo.",
+      "usage_notes": "Formas típicas: お＋raíz verbal＋になる、verbos especiales (いらっしゃる, おっしゃる,召し上がる), o forma pasiva usada como honorífico (れる／られる).",
+      "examples": [
+        {
+          "jp": "社長は明日、大阪にいらっしゃいます。",
+          "furigana": "しゃちょうはあした、おおさかにいらっしゃいます。",
+          "es": "El presidente de la empresa irá a Osaka mañana."
+        },
+        {
+          "jp": "先生は何を召し上がりますか。",
+          "furigana": "せんせいはなにをめしあがりますか。",
+          "es": "¿Qué va a tomar, profesor?"
+        }
+      ],
+      "related_points": ["n3-g-051"],
+      "tags": ["keigo", "respeto"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-051",
+      "lesson_id": "lesson-12",
+      "pattern": "謙譲語1",
+      "reading": "けんじょうご1",
+      "meaning_es": "lenguaje humilde (rebaja al hablante ante el oyente)",
+      "explanation": "Rebaja las propias acciones del hablante para mostrar respeto hacia la persona con la que se relaciona directamente esa acción.",
+      "usage_notes": "Formas típicas: お＋raíz verbal＋する、verbos especiales (伺う, 申し上げる, いたす). El foco está en la relación con el destinatario de la acción.",
+      "examples": [
+        {
+          "jp": "明日、御社に伺います。",
+          "furigana": "あした、おんしゃにうかがいます。",
+          "es": "Mañana iré (humildemente) a su empresa."
+        },
+        {
+          "jp": "資料をお送りいたします。",
+          "furigana": "しりょうをおおくりいたします。",
+          "es": "Le enviaré los documentos."
+        }
+      ],
+      "related_points": ["n3-g-050", "n3-g-052"],
+      "tags": ["keigo", "humildad"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-052",
+      "lesson_id": "lesson-12",
+      "pattern": "謙譲語2",
+      "reading": "けんじょうご2",
+      "meaning_es": "lenguaje humilde (rebaja la acción ante el oyente en general)",
+      "explanation": "Variante del lenguaje humilde centrada en rebajar la propia acción de cara al oyente en general, aunque no sea el receptor directo de esa acción.",
+      "usage_notes": "Verbos típicos: 参る (ir/venir), 申す (decir), 存じる (saber/pensar). Se diferencia de 謙譲語1 en que el respeto se dirige al oyente, no necesariamente al destinatario de la acción.",
+      "examples": [
+        {
+          "jp": "私は田中と申します。",
+          "furigana": "わたしはたなかともうします。",
+          "es": "Me llamo Tanaka (de forma humilde)."
+        },
+        {
+          "jp": "その件については存じております。",
+          "furigana": "そのけんについてはぞんじております。",
+          "es": "Estoy al tanto de ese asunto."
+        }
+      ],
+      "related_points": ["n3-g-051"],
+      "tags": ["keigo", "humildad"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-053",
+      "lesson_id": "lesson-12",
+      "pattern": "丁寧語",
+      "reading": "ていねいご",
+      "meaning_es": "lenguaje cortés (です・ます, base de la formalidad)",
+      "explanation": "Nivel básico de cortesía que se aplica de forma pareja hacia cualquier oyente, sin elevar ni rebajar a nadie en especial; es la base sobre la que se construyen los otros dos tipos de keigo.",
+      "usage_notes": "Incluye です／ます, y formas como ございます (versión cortés de ある). Es el registro por defecto en la mayoría de interacciones formales cotidianas.",
+      "examples": [
+        {
+          "jp": "こちらが会議室でございます。",
+          "furigana": "こちらがかいぎしつでございます。",
+          "es": "Esta es la sala de reuniones."
+        },
+        {
+          "jp": "少々お待ちください。",
+          "furigana": "しょうしょうおまちください。",
+          "es": "Espere un momento, por favor."
+        }
+      ],
+      "related_points": ["n3-g-050", "n3-g-051", "n3-g-052"],
+      "tags": ["keigo", "cortesía"],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "lesson_id": "lesson-5",
+  "level": "N3",
+  "title": "〜だから",
+  "subtitle": "Causa y razón",
+  "points": [
+    {
+      "id": "n3-g-019",
+      "lesson_id": "lesson-5",
+      "pattern": "〜ためだ・〜ため（に）",
+      "reading": "ためだ・ために",
+      "meaning_es": "debido a / con el fin de",
+      "explanation": "Puede indicar causa (por culpa de / debido a algo) o finalidad (con el propósito de). El significado depende de si lo que sigue a ため es algo controlable o no.",
+      "usage_notes": "Si el sujeto tiene control sobre la acción posterior, tiende a leerse como finalidad; si es un hecho que simplemente ocurre, se lee como causa. Más formal que から.",
+      "examples": [
+        {
+          "jp": "台風のため、電車が止まっている。",
+          "furigana": "たいふうのため、でんしゃがとまっている。",
+          "es": "Los trenes están parados debido al tifón."
+        },
+        {
+          "jp": "試験に合格するために、毎日勉強している。",
+          "furigana": "しけんにごうかくするために、まいにちべんきょうしている。",
+          "es": "Estudio todos los días con el fin de aprobar el examen."
+        }
+      ],
+      "related_points": [],
+      "tags": ["causa", "finalidad"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-020",
+      "lesson_id": "lesson-5",
+      "pattern": "〜によって・〜による",
+      "reading": "によって・による",
+      "meaning_es": "debido a / causado por",
+      "explanation": "Marca la causa directa de un evento, a menudo en contextos algo formales o noticiosos (accidentes, desastres, decisiones oficiales).",
+      "usage_notes": "No confundir con el uso de correspondencia visto en la lección 2 (〜によって = 'según'). Aquí el sentido es puramente causal: 'a causa de'.",
+      "examples": [
+        {
+          "jp": "地震によって、多くの建物が壊れた。",
+          "furigana": "じしんによって、おおくのたてものがこわれた。",
+          "es": "Muchos edificios se derrumbaron a causa del terremoto."
+        },
+        {
+          "jp": "不注意による事故が増えている。",
+          "furigana": "ふちゅういによるじこがふえている。",
+          "es": "Están aumentando los accidentes causados por descuidos."
+        }
+      ],
+      "related_points": ["n3-g-006"],
+      "tags": ["causa", "formal"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-021",
+      "lesson_id": "lesson-5",
+      "pattern": "〜から・〜ことから",
+      "reading": "から・ことから",
+      "meaning_es": "a partir de / a raíz de que",
+      "explanation": "ことから señala un hecho concreto que sirvió de origen o punto de partida para llegar a una conclusión, nombre o situación posterior.",
+      "usage_notes": "Muy usado para explicar el origen de nombres, costumbres o deducciones: '[hecho] ことから、[conclusión/nombre]'.",
+      "examples": [
+        {
+          "jp": "この町は温泉が多いことから、「温泉の町」と呼ばれている。",
+          "furigana": "このまちはおんせんがおおいことから、「おんせんのまち」とよばれている。",
+          "es": "Como este pueblo tiene muchas aguas termales, se lo conoce como 'el pueblo de las aguas termales'."
+        },
+        {
+          "jp": "電気がついていないことから、留守だと分かった。",
+          "furigana": "でんきがついていないことから、るすだとわかった。",
+          "es": "A raíz de que las luces estaban apagadas, supe que no había nadie en casa."
+        }
+      ],
+      "related_points": [],
+      "tags": ["causa", "deducción"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-022",
+      "lesson_id": "lesson-5",
+      "pattern": "〜おかげだ・〜おかげで・〜せいだ・〜せいで",
+      "reading": "おかげだ・おかげで・せいだ・せいで",
+      "meaning_es": "gracias a / por culpa de",
+      "explanation": "おかげ atribuye un resultado positivo a una causa (agradecimiento). せい atribuye un resultado negativo a una causa (reproche o queja).",
+      "usage_notes": "Son prácticamente opuestos en connotación aunque gramaticalmente funcionan igual. Usar せい en tono irónico también es posible en conversación informal.",
+      "examples": [
+        {
+          "jp": "先生のおかげで、無事に卒業できた。",
+          "furigana": "せんせいのおかげで、ぶじにそつぎょうできた。",
+          "es": "Gracias al profesor, pude graduarme sin problemas."
+        },
+        {
+          "jp": "寝坊したせいで、会議に遅れてしまった。",
+          "furigana": "ねぼうしたせいで、かいぎにおくれてしまった。",
+          "es": "Por quedarme dormido, llegué tarde a la reunión."
+        }
+      ],
+      "related_points": [],
+      "tags": ["causa", "valoración"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-023",
+      "lesson_id": "lesson-5",
+      "pattern": "〜のだから",
+      "reading": "のだから",
+      "meaning_es": "puesto que (ya que resulta que)",
+      "explanation": "Presenta una razón que el hablante considera obvia o ya conocida por ambas partes, y a partir de la cual extrae una conclusión lógica o una exigencia.",
+      "usage_notes": "Tiene un matiz más argumentativo que から simple: se usa a menudo para justificar una petición, reproche o conclusión que se sigue 'naturalmente' del hecho mencionado.",
+      "examples": [
+        {
+          "jp": "もう大人なのだから、自分で決めなさい。",
+          "furigana": "もうおとななのだから、じぶんできめなさい。",
+          "es": "Ya que eres adulto, decide por ti mismo."
+        },
+        {
+          "jp": "せっかく来たのだから、ゆっくりしていってください。",
+          "furigana": "せっかくきたのだから、ゆっくりしていってください。",
+          "es": "Ya que has venido hasta aquí, quédate un rato tranquilo."
+        }
+      ],
+      "related_points": ["n3-g-001"],
+      "tags": ["causa", "argumentación"],
+      "difficulty": 3
+    }
+  ]
+}

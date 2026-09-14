@@ -1,0 +1,128 @@
+{
+  "lesson_id": "lesson-4",
+  "level": "N3",
+  "title": "〜とは違って",
+  "subtitle": "Contraste y oposición",
+  "points": [
+    {
+      "id": "n3-g-014",
+      "lesson_id": "lesson-4",
+      "pattern": "〜に対して",
+      "reading": "にたいして",
+      "meaning_es": "hacia / en contraste con",
+      "explanation": "Indica la dirección de una actitud, sentimiento o acción hacia algo/alguien, o marca un contraste directo entre dos elementos.",
+      "usage_notes": "Tiene dos usos principales: (1) objeto de una actitud ('actuar hacia/con respecto a'), y (2) contraste explícito entre dos cosas opuestas. El contexto determina cuál aplica.",
+      "examples": [
+        {
+          "jp": "先生に対して、失礼な態度を取ってしまった。",
+          "furigana": "せんせいにたいして、しつれいなたいどをとってしまった。",
+          "es": "Me comporté de forma irrespetuosa con el profesor."
+        },
+        {
+          "jp": "兄は活発なのに対して、弟はおとなしい。",
+          "furigana": "あにはかっぱつなのにたいして、おとうとはおとなしい。",
+          "es": "El hermano mayor es activo, en cambio el pequeño es tranquilo."
+        }
+      ],
+      "related_points": ["n3-g-016"],
+      "tags": ["contraste", "dirección"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-015",
+      "lesson_id": "lesson-4",
+      "pattern": "〜反面",
+      "reading": "はんめん",
+      "meaning_es": "por otro lado / a la vez que",
+      "explanation": "Presenta dos aspectos contrapuestos de una misma cosa o persona, mostrando una cara positiva y otra negativa (o viceversa).",
+      "usage_notes": "A diferencia de 〜一方で, 反面 enfatiza más la naturaleza contradictoria de ambos aspectos dentro del mismo sujeto, no una simple comparación entre dos cosas distintas.",
+      "examples": [
+        {
+          "jp": "この仕事は給料がいい反面、忙しすぎる。",
+          "furigana": "このしごとはきゅうりょうがいいはんめん、いそがしすぎる。",
+          "es": "Este trabajo tiene buen sueldo, pero por otro lado es demasiado ajetreado."
+        },
+        {
+          "jp": "彼は厳しい反面、とても面倒見がいい。",
+          "furigana": "かれはきびしいはんめん、とてもめんどうみがいい。",
+          "es": "Él es estricto, pero a la vez cuida muy bien de los demás."
+        }
+      ],
+      "related_points": ["n3-g-016"],
+      "tags": ["contraste", "dualidad"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-016",
+      "lesson_id": "lesson-4",
+      "pattern": "〜一方（で）",
+      "reading": "いっぽう（で）",
+      "meaning_es": "por un lado... por otro / mientras tanto",
+      "explanation": "Conecta dos situaciones que coexisten, mostrando dos caras o dos tendencias simultáneas, sin implicar necesariamente contradicción tan marcada como 反面.",
+      "usage_notes": "Más neutro que 反面: puede usarse simplemente para yuxtaponer dos hechos que ocurren a la vez, no solo cosas 'buenas vs malas'.",
+      "examples": [
+        {
+          "jp": "都会は便利な一方で、人間関係が希薄になりやすい。",
+          "furigana": "とかいはべんりないっぽうで、にんげんかんけいがきはくになりやすい。",
+          "es": "La ciudad es cómoda, pero por otro lado las relaciones humanas tienden a debilitarse."
+        },
+        {
+          "jp": "彼女は仕事をする一方で、大学院にも通っている。",
+          "furigana": "かのじょはしごとをするいっぽうで、だいがくいんにもかよっている。",
+          "es": "Ella trabaja, y a la vez también está cursando un posgrado."
+        }
+      ],
+      "related_points": ["n3-g-015"],
+      "tags": ["contraste", "simultaneidad"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-017",
+      "lesson_id": "lesson-4",
+      "pattern": "〜というより",
+      "reading": "というより",
+      "meaning_es": "más que / en vez de decir",
+      "explanation": "Corrige o matiza una descripción previa, indicando que otra expresión describe mejor la realidad que la primera.",
+      "usage_notes": "Estructura: A というより B（のほうが適切だ）. Se usa para reformular una afirmación hacia algo más preciso, a menudo en conversación espontánea.",
+      "examples": [
+        {
+          "jp": "彼は天才というより、努力家だと思う。",
+          "furigana": "かれはてんさいというより、どりょくかだとおもう。",
+          "es": "Más que un genio, creo que es alguien muy trabajador."
+        },
+        {
+          "jp": "これは料理というより、実験に近い。",
+          "furigana": "これはりょうりというより、じっけんにちかい。",
+          "es": "Esto, más que cocina, se parece a un experimento."
+        }
+      ],
+      "related_points": [],
+      "tags": ["matización", "corrección"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-018",
+      "lesson_id": "lesson-4",
+      "pattern": "〜かわりに",
+      "reading": "かわりに",
+      "meaning_es": "en lugar de / a cambio de",
+      "explanation": "Indica sustitución (una cosa ocupa el lugar de otra) o compensación (algo se hace a cambio de otra cosa).",
+      "usage_notes": "Tiene dos matices: sustitución pura ('en vez de hacer A, hago B') y contrapartida ('hago A, pero a cambio ocurre/hago B'). El contexto aclara cuál aplica.",
+      "examples": [
+        {
+          "jp": "今日は父のかわりに、私が会議に出席します。",
+          "furigana": "きょうはちちのかわりに、わたしがかいぎにしゅっせきします。",
+          "es": "Hoy, en lugar de mi padre, asistiré yo a la reunión."
+        },
+        {
+          "jp": "手伝ってくれるかわりに、昼ご飯をおごるよ。",
+          "furigana": "てつだってくれるかわりに、ひるごはんをおごるよ。",
+          "es": "A cambio de que me ayudes, te invito a comer."
+        }
+      ],
+      "related_points": [],
+      "tags": ["sustitución", "compensación"],
+      "difficulty": 2
+    }
+  ]
+}

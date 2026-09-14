@@ -1,0 +1,80 @@
+{
+  "lesson_id": "lesson-9",
+  "level": "N3",
+  "title": "〜と望む",
+  "subtitle": "Deseos y peticiones",
+  "points": [
+    {
+      "id": "n3-g-039",
+      "lesson_id": "lesson-9",
+      "pattern": "〜てもらいたい・〜ていただきたい・〜てほしい",
+      "reading": "てもらいたい・ていただきたい・てほしい",
+      "meaning_es": "quisiera que (me/nos) hicieras / me gustaría que",
+      "explanation": "Expresa el deseo de que otra persona realice una acción en beneficio del hablante. Las tres formas comparten significado, variando el nivel de formalidad.",
+      "usage_notes": "Orden de formalidad, de menor a mayor: てほしい (directo/neutro) < てもらいたい (algo más cortés) < ていただきたい (muy formal, uso de negocios).",
+      "examples": [
+        {
+          "jp": "もう少し静かにしてほしいです。",
+          "furigana": "もうすこししずかにしてほしいです。",
+          "es": "Me gustaría que hicierais un poco más de silencio."
+        },
+        {
+          "jp": "資料を確認していただきたいのですが。",
+          "furigana": "しりょうをかくにんしていただきたいのですが。",
+          "es": "Quisiera pedirle que revise los documentos, por favor."
+        }
+      ],
+      "related_points": ["n3-g-040"],
+      "tags": ["deseo", "petición"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-040",
+      "lesson_id": "lesson-9",
+      "pattern": "〜（さ）せてもらいたい・〜（さ）せていただきたい・〜（さ）せてほしい",
+      "reading": "させてもらいたい・させていただきたい・させてほしい",
+      "meaning_es": "quisiera que me dejaras / permitiera hacer...",
+      "explanation": "Combina la forma causativa（さ）せて con las estructuras de deseo anteriores para pedir permiso de forma cortés, en vez de pedir que otro actúe.",
+      "usage_notes": "El sujeto que realiza la acción es el propio hablante, no el interlocutor: se está pidiendo permiso para actuar uno mismo. Muy usado en contextos formales de trabajo.",
+      "examples": [
+        {
+          "jp": "この件について、少し考えさせていただきたいです。",
+          "furigana": "このけんについて、すこしかんがえさせていただきたいです。",
+          "es": "Quisiera que me permitiera pensarlo un poco sobre este asunto."
+        },
+        {
+          "jp": "私に発表させてほしいと頼んだ。",
+          "furigana": "わたしにはっぴょうさせてほしいとたのんだ。",
+          "es": "Le pedí que me dejara hacer la presentación a mí."
+        }
+      ],
+      "related_points": ["n3-g-039"],
+      "tags": ["deseo", "permiso"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-041",
+      "lesson_id": "lesson-9",
+      "pattern": "〜といい・〜ばいい・〜たらいい",
+      "reading": "といい・ばいい・たらいい",
+      "meaning_es": "ojalá / estaría bien si",
+      "explanation": "Expresa un deseo o esperanza sobre algo, a menudo fuera del control del hablante, o sugiere una opción recomendable con tono suave.",
+      "usage_notes": "Como deseo puro, suele combinarse con のに／な al final para reforzar el matiz de anhelo. Como sugerencia, funciona de forma similar a un consejo suave.",
+      "examples": [
+        {
+          "jp": "明日晴れるといいですね。",
+          "furigana": "あしたはれるといいですね。",
+          "es": "Ojalá haga sol mañana."
+        },
+        {
+          "jp": "分からなかったら、先生に聞いたらいいですよ。",
+          "furigana": "わからなかったら、せんせいにきいたらいいですよ。",
+          "es": "Si no lo entiendes, estaría bien que se lo preguntes al profesor."
+        }
+      ],
+      "related_points": [],
+      "tags": ["deseo", "sugerencia"],
+      "difficulty": 2
+    }
+  ]
+}

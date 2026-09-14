@@ -1,0 +1,128 @@
+{
+  "lesson_id": "lesson-7",
+  "level": "N3",
+  "title": "〜だそうだ",
+  "subtitle": "Información de oídas (rumores, lo que se dice)",
+  "points": [
+    {
+      "id": "n3-g-029",
+      "lesson_id": "lesson-7",
+      "pattern": "〜ということだ・〜とのことだ",
+      "reading": "ということだ・とのことだ",
+      "meaning_es": "según parece / dicen que",
+      "explanation": "Reporta información obtenida de una fuente externa (noticia, tercera persona) sin que el hablante la haya verificado directamente.",
+      "usage_notes": "とのことだ es algo más formal/escrito que ということだ. Ambas van tras la forma simple del verbo/adjetivo o directamente tras sustantivo + だ.",
+      "examples": [
+        {
+          "jp": "天気予報によると、明日は雪が降るということだ。",
+          "furigana": "てんきよほうによると、あしたはゆきがふるということだ。",
+          "es": "Según el pronóstico, dicen que mañana nevará."
+        },
+        {
+          "jp": "部長は来週出張だとのことです。",
+          "furigana": "ぶちょうはらいしゅうしゅっちょうだとのことです。",
+          "es": "Según tengo entendido, el jefe de departamento estará de viaje de trabajo la próxima semana."
+        }
+      ],
+      "related_points": ["n3-g-030"],
+      "tags": ["información reportada"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-030",
+      "lesson_id": "lesson-7",
+      "pattern": "〜と言われている",
+      "reading": "といわれている",
+      "meaning_es": "se dice que (es sabido que)",
+      "explanation": "Expresa una creencia, opinión o hecho ampliamente aceptado o afirmado por la sociedad en general, no por una fuente puntual.",
+      "usage_notes": "A diferencia de ということだ (una fuente concreta), aquí el sujeto es difuso: 'la gente en general dice que...'. Frecuente en contextos de cultura general o ciencia.",
+      "examples": [
+        {
+          "jp": "納豆は体にいいと言われている。",
+          "furigana": "なっとうはからだにいいといわれている。",
+          "es": "Se dice que el natto es bueno para la salud."
+        },
+        {
+          "jp": "この城は江戸時代に建てられたと言われている。",
+          "furigana": "このしろはえどじだいにたてられたといわれている。",
+          "es": "Se dice que este castillo fue construido en la era Edo."
+        }
+      ],
+      "related_points": ["n3-g-029"],
+      "tags": ["información reportada", "creencia general"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-031",
+      "lesson_id": "lesson-7",
+      "pattern": "〜とか",
+      "reading": "とか",
+      "meaning_es": "creo que dijeron... / según parece",
+      "explanation": "Reporta información de segunda mano de forma vaga o poco segura, típico de conversación informal cuando no se recuerda bien la fuente.",
+      "usage_notes": "Tono muy coloquial; transmite cierta imprecisión o distancia ('no me hagas mucho caso, pero...'). No apto para registros formales.",
+      "examples": [
+        {
+          "jp": "あの店、来月閉まるとか。",
+          "furigana": "あのみせ、らいげつしまるとか。",
+          "es": "Parece que esa tienda cierra el mes que viene, según dicen."
+        },
+        {
+          "jp": "田中さん、転職したとか聞いたけど。",
+          "furigana": "たなかさん、てんしょくしたとかきいたけど。",
+          "es": "Oí que el señor Tanaka había cambiado de trabajo, o algo así."
+        }
+      ],
+      "related_points": [],
+      "tags": ["información reportada", "coloquial"],
+      "difficulty": 1
+    },
+    {
+      "id": "n3-g-032",
+      "lesson_id": "lesson-7",
+      "pattern": "〜って",
+      "reading": "って",
+      "meaning_es": "dicen que / dice que (coloquial)",
+      "explanation": "Versión coloquial y contraída de と／というのは, usada tanto para citar lo que otros dicen como para introducir un tema de conversación.",
+      "usage_notes": "Muy común en habla oral relajada. Puede sustituir a と言っていた (cita directa) o funcionar como partícula temática informal similar a は.",
+      "examples": [
+        {
+          "jp": "明日、雨が降るって。",
+          "furigana": "あした、あめがふるって。",
+          "es": "Dicen que mañana lloverá."
+        },
+        {
+          "jp": "彼、もう結婚したんだって。",
+          "furigana": "かれ、もうけっこんしたんだって。",
+          "es": "Por lo visto él ya se casó."
+        }
+      ],
+      "related_points": ["n3-g-031"],
+      "tags": ["información reportada", "coloquial"],
+      "difficulty": 1
+    },
+    {
+      "id": "n3-g-033",
+      "lesson_id": "lesson-7",
+      "pattern": "〜という",
+      "reading": "という",
+      "meaning_es": "que se llama / que dice que",
+      "explanation": "Introduce el contenido de un nombre, título o afirmación citada, funcionando como puente entre una cita/nombre y el sustantivo que lo sigue.",
+      "usage_notes": "Distinto uso de と言う (verbo 'decir'): aquí という funciona casi como conector gramatical fijo, muy frecuente para presentar nombres poco conocidos ('un lugar llamado X').",
+      "examples": [
+        {
+          "jp": "京都に「哲学の道」という有名な道がある。",
+          "furigana": "きょうとに「てつがくのみち」というゆうめいなみちがある。",
+          "es": "En Kioto hay un camino famoso llamado 'el Camino de la Filosofía'."
+        },
+        {
+          "jp": "彼が辞めるという話は本当ですか。",
+          "furigana": "かれがやめるというはなしはほんとうですか。",
+          "es": "¿Es cierto eso de que dicen que él va a dejar el trabajo?"
+        }
+      ],
+      "related_points": [],
+      "tags": ["información reportada", "nombres"],
+      "difficulty": 2
+    }
+  ]
+}

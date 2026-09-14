@@ -1,0 +1,104 @@
+{
+  "lesson_id": "lesson-01",
+  "level": "N3",
+  "title": "〜とき",
+  "subtitle": "Indicaciones de tiempo",
+  "points": [
+    {
+      "id": "n3-g-001",
+      "lesson_id": "lesson-1",
+      "pattern": "〜うちに",
+      "reading": "うちに",
+      "meaning_es": "mientras (aprovechando que)",
+      "explanation": "Indica que una acción se realiza dentro de un periodo limitado, antes de que cambien las condiciones que lo permiten.",
+      "usage_notes": "Se usa con verbos en forma diccionario, ている o adjetivos. Transmite la idea de aprovechar una ventana temporal antes de que se cierre; si el cambio de condición ya ha ocurrido, no se puede usar うちに, sino あとで.",
+      "examples": [
+        {
+          "jp": "子供が寝ているうちに、家事をする。",
+          "furigana": "こどもがねているうちに、かじをする。",
+          "es": "Hago las tareas de casa mientras el niño duerme."
+        },
+        {
+          "jp": "元気なうちに、いろいろな国を旅行したい。",
+          "furigana": "げんきなうちに、いろいろなくにをりょこうしたい。",
+          "es": "Quiero viajar a muchos países mientras tengo salud."
+        }
+      ],
+      "related_points": ["n3-g-002"],
+      "tags": ["tiempo", "condición temporal"],
+      "difficulty": 1
+    },
+    {
+      "id": "n3-g-002",
+      "lesson_id": "lesson-1",
+      "pattern": "〜間・〜間に",
+      "reading": "あいだ・あいだに",
+      "meaning_es": "durante / en algún momento durante",
+      "explanation": "〜間 indica que algo ocurre a lo largo de todo el periodo mencionado (acción durativa). 〜間に indica que algo ocurre en un momento puntual dentro de ese periodo.",
+      "usage_notes": "El contraste con 〜間 es clave: si el verbo de la frase principal es puntual (empezar, terminar, encontrar...), se usa 間に; si es una acción continua que dura todo el periodo, se usa 間 sin に.",
+      "examples": [
+        {
+          "jp": "夏休みの間、ずっとアルバイトをしていた。",
+          "furigana": "なつやすみのあいだ、ずっとアルバイトをしていた。",
+          "es": "Durante todas las vacaciones de verano estuve trabajando a tiempo parcial."
+        },
+        {
+          "jp": "夏休みの間に、一度だけ旅行に行った。",
+          "furigana": "なつやすみのあいだに、いちどだけりょこうにいった。",
+          "es": "En algún momento de las vacaciones de verano fui de viaje una vez."
+        }
+      ],
+      "related_points": ["n3-g-001"],
+      "tags": ["tiempo", "duración"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-003",
+      "lesson_id": "lesson-1",
+      "pattern": "〜てからでないと・〜てからでなければ",
+      "reading": "てからでないと・てからでなければ",
+      "meaning_es": "si no es después de... (no se puede X sin antes Y)",
+      "explanation": "Expresa que una acción es un requisito previo indispensable: sin haberla completado primero, la segunda acción no es posible o no tiene sentido.",
+      "usage_notes": "Se combina con verbos en forma て + からでないと／でなければ. La frase que sigue suele estar en negativo o expresar imposibilidad/inconveniencia. Más enfático que un simple 'antes de'.",
+      "examples": [
+        {
+          "jp": "予約をしてからでないと、この店には入れない。",
+          "furigana": "よやくをしてからでないと、このみせにははいれない。",
+          "es": "Si no reservas antes, no puedes entrar en este restaurante."
+        },
+        {
+          "jp": "説明書を読んでからでなければ、使い方が分からないと思う。",
+          "furigana": "せつめいしょをよんでからでなければ、つかいかたがわからないとおもう。",
+          "es": "Creo que si no lees antes el manual, no entenderás cómo usarlo."
+        }
+      ],
+      "related_points": [],
+      "tags": ["tiempo", "condición previa"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-004",
+      "lesson_id": "lesson-1",
+      "pattern": "〜ところだ・〜ところ（+助詞）",
+      "reading": "ところだ",
+      "meaning_es": "justo en el punto de... (a punto de / en medio de / justo acabado de)",
+      "explanation": "Marca la posición exacta de una acción en su línea temporal: a punto de empezar (するところ), en pleno desarrollo (しているところ) o recién terminada (したところ).",
+      "usage_notes": "La forma verbal que precede a ところ determina el matiz temporal: diccionario = a punto de; ている = en curso; た = recién hecho. Con partícula (ところを, ところに) se usa para describir que algo interrumpe o coincide con ese momento preciso.",
+      "examples": [
+        {
+          "jp": "今、家を出るところです。",
+          "furigana": "いま、いえをでるところです。",
+          "es": "Ahora mismo estoy a punto de salir de casa."
+        },
+        {
+          "jp": "ちょうど食べているところに、電話がかかってきた。",
+          "furigana": "ちょうどたべているところに、でんわがかかってきた。",
+          "es": "Justo mientras estaba comiendo, me llamaron por teléfono."
+        }
+      ],
+      "related_points": [],
+      "tags": ["tiempo", "aspecto verbal"],
+      "difficulty": 3
+    }
+  ]
+}

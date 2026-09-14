@@ -1,0 +1,128 @@
+{
+  "lesson_id": "lesson-6",
+  "level": "N3",
+  "title": "もし、…",
+  "subtitle": "Condicionales",
+  "points": [
+    {
+      "id": "n3-g-024",
+      "lesson_id": "lesson-6",
+      "pattern": "〜（の）なら",
+      "reading": "（の）なら",
+      "meaning_es": "si es que / en el caso de que",
+      "explanation": "Condicional que toma como base algo ya mencionado o supuesto por el interlocutor, y da una respuesta o consejo en función de ello.",
+      "usage_notes": "A diferencia de と／たら／ば, なら reacciona a información ya puesta sobre la mesa (algo que el otro dijo o que ya se sabe), no a un evento futuro hipotético puro.",
+      "examples": [
+        {
+          "jp": "京都に行くなら、桜の季節がおすすめです。",
+          "furigana": "きょうとにいくなら、さくらのきせつがおすすめです。",
+          "es": "Si vas a ir a Kioto, te recomiendo la temporada de los cerezos."
+        },
+        {
+          "jp": "A：頭が痛いんです。 B：頭が痛いなら、早く休んだほうがいいですよ。",
+          "furigana": "あたまがいたいんです。あたまがいたいなら、はやくやすんだほうがいいですよ。",
+          "es": "A: Me duele la cabeza. B: Si te duele la cabeza, mejor descansa pronto."
+        }
+      ],
+      "related_points": ["n3-g-026"],
+      "tags": ["condicional"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-025",
+      "lesson_id": "lesson-6",
+      "pattern": "〜ては…・〜（の）では…",
+      "reading": "ては・（の）では",
+      "meaning_es": "si (repetidamente) pasa que... (entonces mal)",
+      "explanation": "Presenta una condición negativa o indeseable que, de repetirse o cumplirse, lleva a una consecuencia problemática. Muy usado en la forma 〜ては困る／だめだ.",
+      "usage_notes": "Suele tener un tono de queja o advertencia. En habla coloquial, ては se contrae a ちゃ (食べては → 食べちゃ).",
+      "examples": [
+        {
+          "jp": "そんなに食べては、太ってしまいますよ。",
+          "furigana": "そんなにたべては、ふとってしまいますよ。",
+          "es": "Si comes tanto, vas a engordar."
+        },
+        {
+          "jp": "約束を守らないのでは、信頼されなくなる。",
+          "furigana": "やくそくをまもらないのでは、しんらいされなくなる。",
+          "es": "Si no cumples tus promesas, dejarán de confiar en ti."
+        }
+      ],
+      "related_points": [],
+      "tags": ["condicional", "advertencia"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-026",
+      "lesson_id": "lesson-6",
+      "pattern": "〜さえ〜ば…・〜さえ〜なら…",
+      "reading": "さえば・さえなら",
+      "meaning_es": "con solo... (basta con que)",
+      "explanation": "Expresa que basta con que se cumpla una única condición mínima para que se logre el resultado deseado; todo lo demás es secundario.",
+      "usage_notes": "Estructura: [elemento] さえ + [forma ば／なら] + [resultado]. Enfatiza que esa condición es la única realmente necesaria.",
+      "examples": [
+        {
+          "jp": "この薬は、一日一回飲みさえすれば大丈夫です。",
+          "furigana": "このくすりは、いちにちいっかいのみさえすればだいじょうぶです。",
+          "es": "Con esta medicina, basta con tomarla una vez al día."
+        },
+        {
+          "jp": "君さえよければ、一緒に行こう。",
+          "furigana": "きみさえよければ、いっしょにいこう。",
+          "es": "Si a ti te parece bien, vamos juntos."
+        }
+      ],
+      "related_points": ["n3-g-024"],
+      "tags": ["condicional", "condición mínima"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-027",
+      "lesson_id": "lesson-6",
+      "pattern": "たとえ〜ても…・たとえ〜でも…",
+      "reading": "たとえても・たとえでも",
+      "meaning_es": "aunque (hipotéticamente) / incluso si",
+      "explanation": "Expresa una concesión hipotética extrema: incluso en el peor o más improbable de los casos, el resultado no cambiaría.",
+      "usage_notes": "たとえ suele anticipar la construcción y reforzar el matiz de 'por muy... que sea'. Se combina con て形 + も, o con でも para sustantivos/na-adjetivos.",
+      "examples": [
+        {
+          "jp": "たとえ失敗しても、諦めるつもりはない。",
+          "furigana": "たとえしっぱいしても、あきらめるつもりはない。",
+          "es": "Aunque fracase, no pienso rendirme."
+        },
+        {
+          "jp": "たとえ子供でも、その事情は理解できるはずだ。",
+          "furigana": "たとえこどもでも、そのじじょうはりかいできるはずだ。",
+          "es": "Incluso siendo un niño, debería poder entender esa situación."
+        }
+      ],
+      "related_points": [],
+      "tags": ["condicional", "concesión"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-028",
+      "lesson_id": "lesson-6",
+      "pattern": "〜ば〜ほど…・〜たら〜なら…",
+      "reading": "ばほど",
+      "meaning_es": "cuanto más... (variante condicional)",
+      "explanation": "Reafirma la estructura proporcional vista en la lección 2 (ばほど), presentada aquí dentro del bloque de condicionales por su forma condicional base.",
+      "usage_notes": "Ver también n3-g-008 para el desarrollo detallado de esta estructura; aquí se agrupa junto a otras formas condicionales por similitud gramatical de construcción.",
+      "examples": [
+        {
+          "jp": "早く出発すればするほど、道が空いている。",
+          "furigana": "はやくしゅっぱつすればするほど、みちがすいている。",
+          "es": "Cuanto antes salgamos, menos tráfico habrá."
+        },
+        {
+          "jp": "説明を聞けば聞くほど、複雑に感じる。",
+          "furigana": "せつめいをきけばきくほど、ふくざつにかんじる。",
+          "es": "Cuanto más escucho la explicación, más complicado me parece."
+        }
+      ],
+      "related_points": ["n3-g-008"],
+      "tags": ["condicional", "proporción"],
+      "difficulty": 3
+    }
+  ]
+}

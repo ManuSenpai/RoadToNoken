@@ -1,0 +1,104 @@
+{
+  "lesson_id": "lesson-3",
+  "level": "N3",
+  "title": "比べれば・・・がいちばん",
+  "subtitle": "Comparaciones y grados",
+  "points": [
+    {
+      "id": "n3-g-010",
+      "lesson_id": "lesson-3",
+      "pattern": "〜くらいだ・〜ぐらいだ・〜くらい・〜ほどだ・〜ほど",
+      "reading": "くらいだ・ぐらいだ・ほどだ",
+      "meaning_es": "hasta el punto de / tanto que",
+      "explanation": "Se usa para dar una idea del grado de algo mediante un ejemplo extremo o ilustrativo, transmitiendo la intensidad de una situación.",
+      "usage_notes": "Suele acompañar a expresiones exageradas para enfatizar el grado real de un sentimiento o situación. ほど tiende a sonar algo más formal/literario que くらい・ぐらい.",
+      "examples": [
+        {
+          "jp": "今日は死ぬほど疲れた。",
+          "furigana": "きょうはしぬほどつかれた。",
+          "es": "Hoy estoy cansado hasta morir (muchísimo)."
+        },
+        {
+          "jp": "緊張して、声が震えるくらいだった。",
+          "furigana": "きんちょうして、こえがふるえるくらいだった。",
+          "es": "Estaba tan nervioso que hasta me temblaba la voz."
+        }
+      ],
+      "related_points": ["n3-g-011"],
+      "tags": ["grado", "énfasis"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-011",
+      "lesson_id": "lesson-3",
+      "pattern": "〜くらい…ない・〜ぐらい…ない・〜ほど…ない",
+      "reading": "くらいない・ぐらいない・ほどない",
+      "meaning_es": "no tanto como / nada como",
+      "explanation": "Compara algo con un referente, afirmando que nada alcanza ese grado extremo: 'no hay nada tan X como...'.",
+      "usage_notes": "Estructura comparativa negativa: [referente] + くらい／ほど + [predicado en negativo]. Muy usada para superlativos indirectos ('esto es lo más X que existe').",
+      "examples": [
+        {
+          "jp": "母の料理くらい美味しいものはない。",
+          "furigana": "ははのりょうりくらいおいしいものはない。",
+          "es": "No hay nada tan rico como la comida de mi madre."
+        },
+        {
+          "jp": "今年の夏ほど暑い夏はなかった。",
+          "furigana": "ことしのなつほどあついなつはなかった。",
+          "es": "No ha habido un verano tan caluroso como el de este año."
+        }
+      ],
+      "related_points": ["n3-g-010"],
+      "tags": ["grado", "comparación negativa"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-012",
+      "lesson_id": "lesson-3",
+      "pattern": "〜くらいなら・〜ぐらいなら",
+      "reading": "くらいなら・ぐらいなら",
+      "meaning_es": "antes que (eso), preferiría...",
+      "explanation": "Expresa rechazo hacia una opción presentándola como tan mala que se prefiere otra alternativa, aunque también sea poco deseable.",
+      "usage_notes": "Suele ir seguido de 〜ほうがいい／〜ましだ, reforzando la idea de 'lo otro, aunque no sea ideal, es mejor que esto'.",
+      "examples": [
+        {
+          "jp": "こんな仕事を続けるくらいなら、辞めたほうがいい。",
+          "furigana": "こんなしごとをつづけるくらいなら、やめたほうがいい。",
+          "es": "Antes que seguir con un trabajo así, mejor dejarlo."
+        },
+        {
+          "jp": "謝るくらいなら、最初からやらなければよかった。",
+          "furigana": "あやまるくらいなら、さいしょからやらなければよかった。",
+          "es": "Si voy a tener que disculparme, mejor no haberlo hecho desde el principio."
+        }
+      ],
+      "related_points": [],
+      "tags": ["preferencia", "rechazo"],
+      "difficulty": 3
+    },
+    {
+      "id": "n3-g-013",
+      "lesson_id": "lesson-3",
+      "pattern": "〜に限る",
+      "reading": "にかぎる",
+      "meaning_es": "no hay nada mejor que / lo mejor es",
+      "explanation": "Expresa una opinión enfática de que algo es, sin duda, la mejor opción posible en una situación dada, basada en experiencia o sentido común.",
+      "usage_notes": "Se usa tras sustantivo o forma diccionario del verbo. Tiene un tono coloquial y de convicción personal, típico de consejos o refranes.",
+      "examples": [
+        {
+          "jp": "疲れたときは、温泉に入るに限る。",
+          "furigana": "つかれたときは、おんせんにはいるにかぎる。",
+          "es": "Cuando estás cansado, no hay nada mejor que meterse en una aguas termales."
+        },
+        {
+          "jp": "夏はやっぱりビールに限る。",
+          "furigana": "なつはやっぱりビールにかぎる。",
+          "es": "En verano, no hay nada como una cerveza."
+        }
+      ],
+      "related_points": [],
+      "tags": ["opinión", "superlativo"],
+      "difficulty": 2
+    }
+  ]
+}

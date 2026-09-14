@@ -1,0 +1,104 @@
+{
+  "lesson_id": "lesson-11",
+  "level": "N3",
+  "title": "〜（よ）うと思う",
+  "subtitle": "Intención y decisión",
+  "points": [
+    {
+      "id": "n3-g-046",
+      "lesson_id": "lesson-11",
+      "pattern": "〜ことにする・〜ことにしている",
+      "reading": "ことにする・ことにしている",
+      "meaning_es": "decidir hacer / tener por costumbre hacer",
+      "explanation": "ことにする expresa una decisión puntual tomada por el hablante. ことにしている indica que esa decisión se ha convertido en una norma o hábito personal continuado.",
+      "usage_notes": "Contrasta con なる (algo decidido por otros o por circunstancias externas): aquí la decisión es propia y voluntaria.",
+      "examples": [
+        {
+          "jp": "来年から一人暮らしをすることにした。",
+          "furigana": "らいねんからひとりぐらしをすることにした。",
+          "es": "He decidido vivir solo a partir del año que viene."
+        },
+        {
+          "jp": "毎朝、コーヒーを飲むことにしている。",
+          "furigana": "まいあさ、コーヒーをのむことにしている。",
+          "es": "Tengo por costumbre tomar café cada mañana."
+        }
+      ],
+      "related_points": ["n3-g-047"],
+      "tags": ["decisión", "hábito"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-047",
+      "lesson_id": "lesson-11",
+      "pattern": "〜ようにする・〜ようにしている",
+      "reading": "ようにする・ようにしている",
+      "meaning_es": "procurar hacer / esforzarse por hacer",
+      "explanation": "Expresa un esfuerzo consciente para alcanzar un estado o comportamiento deseado, sin garantizar el resultado al 100% (a diferencia de ことにする, que es una decisión firme).",
+      "usage_notes": "ようにしている indica que ese esfuerzo se mantiene de forma continuada como práctica habitual, similar a ことにしている pero con matiz de 'intentarlo', no de norma fija.",
+      "examples": [
+        {
+          "jp": "できるだけ野菜を食べるようにしています。",
+          "furigana": "できるだけやさいをたべるようにしています。",
+          "es": "Procuro comer verduras todo lo posible."
+        },
+        {
+          "jp": "忘れないように、メモを取るようにしよう。",
+          "furigana": "わすれないように、メモをとるようにしよう。",
+          "es": "Voy a procurar tomar notas para no olvidarlo."
+        }
+      ],
+      "related_points": ["n3-g-046"],
+      "tags": ["esfuerzo", "hábito"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-048",
+      "lesson_id": "lesson-11",
+      "pattern": "〜（よ）うとする",
+      "reading": "（よ）うとする",
+      "meaning_es": "estar a punto de / intentar hacer",
+      "explanation": "Describe el momento justo en que alguien intenta iniciar una acción, ya sea con éxito inminente o siendo interrumpido antes de lograrlo.",
+      "usage_notes": "Muy usado en pasado (〜（よ）うとしたとき) para marcar que algo interrumpió la acción justo cuando iba a comenzar.",
+      "examples": [
+        {
+          "jp": "家を出ようとしたとき、雨が降り始めた。",
+          "furigana": "いえをでようとしたとき、あめがふりはじめた。",
+          "es": "Justo cuando estaba a punto de salir de casa, empezó a llover."
+        },
+        {
+          "jp": "彼は真実を隠そうとしている。",
+          "furigana": "かれはしんじつをかくそうとしている。",
+          "es": "Él está intentando ocultar la verdad."
+        }
+      ],
+      "related_points": [],
+      "tags": ["intención", "aspecto verbal"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-049",
+      "lesson_id": "lesson-11",
+      "pattern": "〜つもりだ",
+      "reading": "つもりだ",
+      "meaning_es": "tener la intención de",
+      "explanation": "Expresa un plan o intención firme del hablante para el futuro, más definido que un simple deseo pero sin ser aún una acción confirmada externamente.",
+      "usage_notes": "つもりはない para negar intención. No confundir con 予定 (programado/agendado): つもり es más subjetivo y personal, 予定 implica algo ya planificado formalmente.",
+      "examples": [
+        {
+          "jp": "来年、留学するつもりです。",
+          "furigana": "らいねん、りゅうがくするつもりです。",
+          "es": "Tengo la intención de estudiar en el extranjero el año que viene."
+        },
+        {
+          "jp": "もう二度とタバコを吸うつもりはない。",
+          "furigana": "もうにどとタバコをすうつもりはない。",
+          "es": "No tengo ninguna intención de volver a fumar."
+        }
+      ],
+      "related_points": [],
+      "tags": ["intención", "plan"],
+      "difficulty": 1
+    }
+  ]
+}

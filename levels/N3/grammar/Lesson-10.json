@@ -1,0 +1,104 @@
+{
+  "lesson_id": "lesson-10",
+  "level": "N3",
+  "title": "〜したほうがいい・〜なさい",
+  "subtitle": "Consejo, obligación y mandato",
+  "points": [
+    {
+      "id": "n3-g-042",
+      "lesson_id": "lesson-10",
+      "pattern": "命令（しろ）／禁止（〜な）",
+      "reading": "めいれい・きんし",
+      "meaning_es": "orden directa / prohibición directa",
+      "explanation": "La forma imperativa (しろ／食べろ) da una orden directa y brusca; añadir な tras la forma diccionario del verbo forma una prohibición igual de directa.",
+      "usage_notes": "Registro muy fuerte/informal: propio de situaciones de urgencia, deporte, manga/anime, o entre hombres en contextos muy cercanos. No apto para uso educado.",
+      "examples": [
+        {
+          "jp": "早く逃げろ！",
+          "furigana": "はやくにげろ！",
+          "es": "¡Corre, huye rápido!"
+        },
+        {
+          "jp": "危ないから、触るな。",
+          "furigana": "あぶないから、さわるな。",
+          "es": "Es peligroso, no lo toques."
+        }
+      ],
+      "related_points": [],
+      "tags": ["mandato", "prohibición"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-043",
+      "lesson_id": "lesson-10",
+      "pattern": "〜こと",
+      "reading": "こと",
+      "meaning_es": "debe hacerse / hágase (instrucción escrita)",
+      "explanation": "Uso de la forma diccionario o ない-forma + こと como instrucción impersonal, típica de normas, carteles o reglamentos escritos.",
+      "usage_notes": "No se dirige a nadie en concreto de forma directa (no es tan brusco como el imperativo), sino que enuncia una norma general que aplica a cualquiera.",
+      "examples": [
+        {
+          "jp": "レポートは今週中に提出すること。",
+          "furigana": "レポートはこんしゅうちゅうにていしゅつすること。",
+          "es": "El informe deberá entregarse dentro de esta semana."
+        },
+        {
+          "jp": "館内では大声で話さないこと。",
+          "furigana": "かんないではおおごえではなさないこと。",
+          "es": "No se debe hablar en voz alta dentro del edificio."
+        }
+      ],
+      "related_points": [],
+      "tags": ["norma", "instrucción"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-044",
+      "lesson_id": "lesson-10",
+      "pattern": "〜べきだ・〜べき／〜べきではない",
+      "reading": "べきだ・べき・べきではない",
+      "meaning_es": "debería / no debería",
+      "explanation": "Expresa una obligación moral o un deber que el hablante considera correcto según normas sociales, ética o sentido común, no una obligación legal estricta.",
+      "usage_notes": "Va tras forma diccionario del verbo (excepción: する puede ser するべき o すべき). Tiene un tono de opinión firme, a veces de reproche.",
+      "examples": [
+        {
+          "jp": "もっと早く相談するべきだった。",
+          "furigana": "もっとはやくそうだんするべきだった。",
+          "es": "Deberías haber consultado esto antes."
+        },
+        {
+          "jp": "他人の悪口を言うべきではない。",
+          "furigana": "たにんのわるくちをいうべきではない。",
+          "es": "No se debería hablar mal de los demás."
+        }
+      ],
+      "related_points": [],
+      "tags": ["obligación", "opinión"],
+      "difficulty": 2
+    },
+    {
+      "id": "n3-g-045",
+      "lesson_id": "lesson-10",
+      "pattern": "〜たらどうか",
+      "reading": "たらどうか",
+      "meaning_es": "¿qué tal si...? (sugerencia)",
+      "explanation": "Propone una acción como sugerencia, con un tono más suave que una orden, dejando la decisión final en manos del oyente.",
+      "usage_notes": "たらどうですか es la versión cortés; たら？ solo (con entonación de pregunta) es la versión muy coloquial entre amigos.",
+      "examples": [
+        {
+          "jp": "疲れているなら、少し休んだらどうですか。",
+          "furigana": "つかれているなら、すこしやすんだらどうですか。",
+          "es": "Si estás cansado, ¿qué tal si descansas un poco?"
+        },
+        {
+          "jp": "一度病院に行ったら？",
+          "furigana": "いちどびょういんにいったら？",
+          "es": "¿Por qué no vas al médico una vez?"
+        }
+      ],
+      "related_points": [],
+      "tags": ["sugerencia"],
+      "difficulty": 1
+    }
+  ]
+}
